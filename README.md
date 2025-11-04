@@ -1,0 +1,1 @@
+Program ini digunakan untuk menghitung faktorial dari sebuah bilangan, yaitu hasil perkalian dari 1 sampai bilangan itu sendiri. Misalnya kita masukkan angka 4 berarti 1 × 2 × 3 × 4 = 24 maka faktorial dari 4 adalah 24. Saya menggunakan perulangan for supaya program bisa otomatis menghitung faktorial dari angka berapa pun yang dimasukkan pengguna.
